@@ -1,12 +1,17 @@
-# Capturas sugeridas
+### Home
+![Home](screenshots/home.png)
 
-Agrega capturas del proyecto para mostrar evidencia sin publicar el código fuente.
+### About Us
+![About Us](screenshots/about.png)
 
-Capturas recomendadas:
+### Gallery
+![Gallery](screenshots/gallery.png)
 
-- Página principal
-- Sección de productos
-- Galería
-- Panel administrativo
-- Generador de estimaciones
-- PDF o vista de estimación
+### Products
+![Products](screenshots/products.png)
+
+### Contact
+![Contact](screenshots/contact.png)
+
+### Admin Panel
+![Admin Panel](screenshots/admin-panel.png)
