@@ -1,4 +1,4 @@
-# RTA Kabinets Solutions - Case Study
+# RTA Kabinets Solutions - Caso de estudio
 
 Caso de estudio de una plataforma web desarrollada para una carpintería, enfocada en presentación de servicios, administración de productos y generación de estimaciones para clientes.
 
